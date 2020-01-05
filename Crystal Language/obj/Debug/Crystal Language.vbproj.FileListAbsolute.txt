@@ -8,3 +8,14 @@ C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\Crystal Lan
 C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\Crystal Language\obj\Debug\Crystal Language.exe
 C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\Crystal Language\obj\Debug\Crystal Language.xml
 C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\Crystal Language\obj\Debug\Crystal Language.pdb
+C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\CrystalLanguage\Crystal Language\bin\Debug\Crystal Language.exe.config
+C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\CrystalLanguage\Crystal Language\obj\Debug\Crystal Language.exe
+C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\CrystalLanguage\Crystal Language\obj\Debug\Crystal Language.xml
+C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\CrystalLanguage\Crystal Language\obj\Debug\Crystal Language.pdb
+C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\CrystalLanguage\Crystal Language\bin\Debug\Crystal Language.exe
+C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\CrystalLanguage\Crystal Language\bin\Debug\Crystal Language.pdb
+C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\CrystalLanguage\Crystal Language\bin\Debug\Crystal Language.xml
+C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\CrystalLanguage\Crystal Language\obj\Debug\Crystal Language.vbprojResolveAssemblyReference.cache
+C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\CrystalLanguage\Crystal Language\obj\Debug\Crystal_Language.Form1.resources
+C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\CrystalLanguage\Crystal Language\obj\Debug\Crystal_Language.Resources.resources
+C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\CrystalLanguage\Crystal Language\obj\Debug\Crystal Language.vbproj.GenerateResource.Cache

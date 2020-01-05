@@ -36,11 +36,9 @@
 
                 If (script.Contains("-v")) Then
 
-                    Console.WriteLine("Crystal Language CLEngine using NetFramework", vbNewLine)
+                Console.WriteLine("Crystal Language CLEngine using NetFramework 4.6", vbNewLine)
 
-                    Console.WriteLine(My.Application.Info.Version)
-
-
+                Console.WriteLine(My.Application.Info.Version)
 
 
 
@@ -48,7 +46,9 @@
 
 
 
-                End If
+
+
+            End If
 
                 If (script.Contains(";")) Then
 
