@@ -1,0 +1,11 @@
+C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\Crystal Language\bin\Release\Crystal Language.exe.config
+C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\Crystal Language\bin\Release\Crystal Language.exe
+C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\Crystal Language\bin\Release\Crystal Language.pdb
+C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\Crystal Language\bin\Release\Crystal Language.xml
+C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\Crystal Language\obj\Release\Crystal_Language.Form1.resources
+C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\Crystal Language\obj\Release\Crystal_Language.Resources.resources
+C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\Crystal Language\obj\Release\Crystal Language.vbproj.GenerateResource.Cache
+C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\Crystal Language\obj\Release\Crystal Language.exe
+C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\Crystal Language\obj\Release\Crystal Language.xml
+C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\Crystal Language\obj\Release\Crystal Language.pdb
+C:\Users\Ruby\Documents\Visual Studio 2015\Projects\Crystal Language\Crystal Language\obj\Release\Crystal Language.vbprojResolveAssemblyReference.cache
