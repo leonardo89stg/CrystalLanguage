@@ -23,7 +23,7 @@ CLengine 0.9
  <td>-V</td> <td>Show Version  VM</td>
  </tr>
 <tr>
- <td>print:></td> <td>Console Write Text</td>
+ <td>print:</td> <td>Console Write Text</td>
  </tr>
 </table>
   
