@@ -4,7 +4,7 @@ CLengine 0.9
 <h4> To using    CrystalLanguage you need</h4>:
 <ul>
  <li>Windows  7 or  the last</li>
-  <li>alter source  unsig Visual Studio 2015 minimal with NetFrameworK 4.6</li>
+  <li>alter source  using Visual Studio 2015 minimal with NetFrameworK 4.6</li>
  
  
   
